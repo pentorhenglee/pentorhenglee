@@ -1,16 +1,16 @@
-## Hi there 👋
+## Languages I use
 
-<!--
-**pentorhenglee/pentorhenglee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pentorhenglee&layout=compact&theme=default)
+```
 
-Here are some ideas to get you started:
+**ปรับแต่งได้อีก:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- `&layout=compact` — แสดงแบบกระทัดรัด (แนะนำ)
+- `&layout=donut` — แสดงเป็นวงกลม
+- `&theme=dark` / `&theme=tokyonight` / `&theme=radical` — เปลี่ยน theme ได้
+- `&langs_count=6` — จำกัดจำนวนภาษาที่แสดง
+- `&hide=html,css` — ซ่อนภาษาที่ไม่ต้องการแสดง
+
+**ตัวอย่าง URL เต็ม:**
+```
+https://github-readme-stats.vercel.app/api/top-langs/?username=johndev&layout=compact&theme=tokyonight&langs_count=8&hide=html
