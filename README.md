@@ -1,4 +1,4 @@
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pentorhenglee&layout=compact&theme=tokyonight&langs_count=8&hide=html)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pentorhenglee&layout=compact&theme=default)
 ```
 
 **ปรับแต่งได้อีก:**
