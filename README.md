@@ -1,6 +1,4 @@
-## Languages I use
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pentorhenglee&layout=compact&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pentorhenglee&layout=compact&theme=tokyonight&langs_count=8&hide=html)
 ```
 
 **ปรับแต่งได้อีก:**
@@ -14,3 +12,4 @@
 **ตัวอย่าง URL เต็ม:**
 ```
 https://github-readme-stats.vercel.app/api/top-langs/?username=johndev&layout=compact&theme=tokyonight&langs_count=8&hide=html
+https://github-readme-stats.vercel.app/api/top-langs/?username=pentorhenglee&layout=compact&theme=default
